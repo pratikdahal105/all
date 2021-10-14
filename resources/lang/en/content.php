@@ -316,7 +316,7 @@ Import / export and sale of automobile parts</td>
   </tr>
   <tr>
     <td>Capital</td>
-    <td>4657 . 8 yen</td>
+    <td>46578000 yen</td>
   </tr>
   <tr>
     <td>License</td>
