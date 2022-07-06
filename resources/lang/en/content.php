@@ -301,7 +301,9 @@ WEB. www.allrahimmanpower.com
   </tr>
   <tr>
     <td>
-代表取締役 CEO
+ <p class="text-center">代表取締役</p>
+<br>
+<p class="text-center">CEO</p>
 </td>
     <td>山際　ジャン
     </td>
@@ -512,6 +514,7 @@ When requested by the place of employment or dispatch, we will provide informati
     'privacy_policy_footer' => '
 ALL RAHIM MANPOWER PVT.LTD<br>
 <b>I agree to the above handling of personal information.</b>',
+    'slider_title_footer' => 'Related Links',
 
 //    Techchnology Content
     'tech_content' => '

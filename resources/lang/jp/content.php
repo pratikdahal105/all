@@ -591,6 +591,8 @@ ALL RAHIM MANPOWER PVT.LTD<br>
 <b>以上の個人情報の取扱いに同意します。</b>
 ',
 
+    'slider_title_footer' => '関連リンク',
+
 //    Techchnology Content
     'tech_content' => '
 

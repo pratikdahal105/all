@@ -126,15 +126,38 @@
     .slick-arrow.slick-hidden {
         display: none;
     }
+
+    .zoom-in-out-box {
+        margin: 24px;
+        /*width: 50px;*/
+        height: 50px;
+        animation: zoom-in-zoom-out 3s ease infinite;
+    }
+    .slide:hover{
+        transform: scale(1.2, 1.2);
+    }
+
+    @keyframes zoom-in-zoom-out {
+        0% {
+            transform: scale(1, 1);
+        }
+        50% {
+            transform: scale(1.5, 1.5);
+        }
+        100% {
+            transform: scale(1, 1);
+        }
+    }
 </style>
 <div class="container">
+    <h3 class="zoom-in-out-box text-center text-light">@lang('content.slider_title_footer')</h3><br>
     <section class="customer-logos slider">
         <div class="slide"><a target="_blank" href="http://allrahimmanpower.com"><img src="{{asset('images/slider/slider1.png')}}"></a></div>
         <div class="slide"><a target="_blank"  href="http://ac.prometric-jp.com/testlist/ssw/index.html"><img src="{{asset('images/slider/slider2.png')}}"></a></div>
         <div class="slide"><a target="_blank" href="https://www.dofe.gov.np/Home.aspx"><img src="{{asset('images/slider/slider3.png')}}"></a></div>
         <div class="slide"><a target="_blank" href="https://www.jitco.or.jp"><img src="{{asset('images/slider/slider4.png')}}"></a></div>
         <div class="slide"><a target="_blank" href="https://www.otit.go.jp"><img src="{{asset('images/slider/slider5.png')}}"></a></div>
-        <div class="slide"><a target="_blank" href="https://www.moj.go.jp/isa/index.html"><img src="{{asset('images/slider/slider6.png')}}"></a></div>
+        <div class="slide" style="background-color: white"><a target="_blank" href="https://www.moj.go.jp/isa/index.html"><img src="{{asset('images/slider/slider6.png')}}"></a></div>
         <div class="slide"><a target="_blank" href="https://www.mofa.go.jp/mofaj/index.html"><img src="{{asset('images/slider/slider7.png')}}"></a></div>
         <div class="slide"><a target="_blank" href="https://www.moj.go.jp/isa/about/pr/nyuukokukanri01_00182.html"><img src="{{asset('images/slider/slider8.png')}}"></a></div>
         <div class="slide"><a target="_blank" href="https://www.mhlw.go.jp/index.html"><img src="{{asset('images/slider/slider9.png')}}"></a></div>
