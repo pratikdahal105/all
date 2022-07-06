@@ -300,12 +300,22 @@ WEB. www.allrahimmanpower.com
 </td>
   </tr>
   <tr>
-    <td>CEO</td>
-    <td>YAMAGIWA JYAN.<br>
-BIROJ KEDEM.<br>
-AMAR RAI.<br>
-RAJ BHAKTA NEMBANG.</td>
-  </tr>
+    <td>
+代表取締役 CEO
+</td>
+    <td>山際　ジャン
+    </td>
+   </tr>
+    <tr>
+    <td>役員</td>
+    <td>
+    RAI AMAR JIT （代表者・ネパール国） <br>
+    NEMBANG RAJ BHAKTA <br>
+    JIMI RAM KUMAR <br>
+    LIMBU KUMAR <br>
+    LIMBU PADAM</td>
+</td>
+</tr>
   <tr>
     <td>Business Content</td>
     <td>Worker dispatching business<br>
@@ -320,7 +330,9 @@ Import / export and sale of automobile parts</td>
   </tr>
   <tr>
     <td>License</td>
-    <td>Nepal Government Official Sending License No. 1264/074/075</td>
+    <td>• Nepal Government Official Sending License No. 1264/074/075<br>
+    • 有料職業人材紹介　日本厚生労働省、厚生労働大臣許可 23-ユ-302528<br>
+• 登録支援機関　日本出入国在留管理庁認定 22登-007058</td>
     </tr>
 </table>',
 

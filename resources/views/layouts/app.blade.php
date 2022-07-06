@@ -162,6 +162,7 @@
 
     <!-- Footer-->
     <footer class="footer" style="background-color: #04023d;" >
+        @include('layouts.slider')
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 h-100 text-center text-lg-start my-auto">
@@ -174,7 +175,7 @@
                     {{-- <a href="#"><i class="fab fa-viber text-light m-2 fa-3x"></i></a>
                     <a href="#"><i class="fab fa-line text-light m-2 fa-3x"></i></a>
                     <a href="#"><i class="fab fa-skype text-light m-2 fa-3x"></i></a> --}}
-                    <a href="http://allrahimmanpower.com/" class="btn btn-light font-weight-bold" target="_blank">@lang('content.footer_link')</a>
+{{--                    <a href="http://allrahimmanpower.com/" class="btn btn-light font-weight-bold" target="_blank">@lang('content.footer_link')</a>--}}
                     <div class="row mt-3">
                         <figure class="figure col-6">
                             <img src="{{ asset('images/line.jpg') }}" width="100" height="100" class="figure-img img-fluid rounded">
@@ -184,7 +185,7 @@
                             <img src="{{ asset('images/viber.jpg') }}" width="100" height="100" class="figure-img img-fluid rounded">
                             <figcaption class="figure-caption text-center"><a href="#"><i class="fab fa-viber text-light m-2 fa-3x"></i></a></figcaption>
                           </figure>
-                    </div>  
+                    </div>
                 </div>
             </div>
         </div>

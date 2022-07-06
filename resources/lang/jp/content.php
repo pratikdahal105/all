@@ -77,11 +77,10 @@ return [
     'about_content' => 'こんにちは、<br>
 当サイトをご覧頂き有難うございます。<br>
 本社事務所はネパール国にあり、日本支店は愛知県豊田市に設置しております。<br>
-両国の架け橋のビジネスとして、今は、送り出し機関として人材紹介のみの業務しか行っておりませんが、日本労働局からの許可が下り次第、有料職業紹介事業、派遣事業、請負、登録支援機関等へのサポートを行って行きたいと思って居ります。<br>
+両国の架け橋のビジネスとして、ネパール人人材送り出し機関として人材紹介を行っておりまます。さらに有料職業紹介事業、登録支援機関行なっており、派遣事業、業務請負等もサポートしております。<br>
 ',
-    'about_image_heading' => '今現在当社の業務は下記の通りです。',
+    'about_image_heading' => '人材送り出し機関業の形です。',
     'about_image_footer' => '当社に関しての情報はネパール政府労働省労働局及び国際労働局の公式ホームページ <a href="https://dofe.gov.np" target="_blank">https://dofe.gov.np</a> をご覧頂いて当社のライセンス番号（1264/074/75）又は商号（ALL RAHIM MANPOWER PVT. LTD）からのご検索により政府認定化送り出し機関とのご確認ができます。<br>
-日本国内については、国税庁の法人番号公式サイト <a href="https://www.houjin-bangou.nta.go.jp" target="_blank">https://www.houjin-bangou.nta.go.jp</a> にて、又はGoogle検索でも容易に見つかるようになって居りますのでこちらも合わせてご覧ください。<br>
 ホームページ以外でさらに詳細を知りたい方は、直接、メールや電話にてお受けいたしますのでご連絡下さい。<br>
 お待ちいたしております。<br>
 ',
@@ -318,7 +317,7 @@ return [
 くわえて、家族帯同や滞在年数にも制限があります。2019年4月の特定技能ビザがスタートした時点では、受け入れは特定技能1号からはじまっています。また、特定技能1号の外国人人材を受け入れる企業・団体は、かならず支援計画を実施する必要があります。<br>
 ',
     'registration_video' => '特定技能１号の登録支援機関については下記の動画を見てください。'
-,
+    ,
 //    company Profile
 
     'company_topic' => '会社概要',
@@ -371,14 +370,24 @@ WEB. www.allrahimmanpower.com
 </td>
   </tr>
   <tr>
-    <td>代表取締役<br>
-(CEO)
+    <td>
+代表取締役 CEO
 </td>
-    <td>YAMAGIWA JYAN.<br>
-    BIROJ KEDEM.<br>
-AMAR RAI.<br>
-RAJ BHAKTA NEMBANG.</td>
-  </tr>
+    <td>山際　ジャン
+    </td>
+   </tr>
+    <tr>
+    <td>役員</td>
+    <td>
+    RAI AMAR JIT （代表者・ネパール国） <br>
+    NEMBANG RAJ BHAKTA <br>
+    JIMI RAM KUMAR <br>
+    LIMBU KUMAR <br>
+    LIMBU PADAM</td>
+</td>
+</tr>
+
+
   <tr>
     <td>事業内容</td>
     <td>労働者派遣業<br>
@@ -393,7 +402,9 @@ RAJ BHAKTA NEMBANG.</td>
   </tr>
   <tr>
     <td>ライセンス</td>
-    <td>ライセンス	ネパール国政府公認送出ライセンス No. 1264/074/075</td>
+    <td>•	人材送り出し機関　ネパール国政府、労働・雇用・社会保障省、外国人雇 局 ライセンス No. 1264/074/075 <br>
+•	有料職業人材紹介　日本厚生労働省、厚生労働大臣許可 23-ユ-302528<br>
+•	登録支援機関　日本出入国在留管理庁認定 22登-007058</td>
     </tr>
 </table><br>',
 
