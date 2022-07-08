@@ -127,27 +127,27 @@
         display: none;
     }
 
-    .zoom-in-out-box {
-        margin: 24px;
-        /*width: 50px;*/
-        height: 50px;
-        animation: zoom-in-zoom-out 3s ease infinite;
-    }
+    /*.zoom-in-out-box {*/
+    /*    margin: 24px;*/
+    /*    !*width: 50px;*!*/
+    /*    height: 50px;*/
+    /*    animation: zoom-in-zoom-out 3s ease infinite;*/
+    /*}*/
     .slide:hover{
         transform: scale(1.2, 1.2);
     }
 
-    @keyframes zoom-in-zoom-out {
-        0% {
-            transform: scale(1, 1);
-        }
-        50% {
-            transform: scale(1.5, 1.5);
-        }
-        100% {
-            transform: scale(1, 1);
-        }
-    }
+    /*@keyframes zoom-in-zoom-out {*/
+    /*    0% {*/
+    /*        transform: scale(1, 1);*/
+    /*    }*/
+    /*    50% {*/
+    /*        transform: scale(1.5, 1.5);*/
+    /*    }*/
+    /*    100% {*/
+    /*        transform: scale(1, 1);*/
+    /*    }*/
+    /*}*/
 </style>
 <div class="container">
     <h3 class="zoom-in-out-box text-center text-light">@lang('content.slider_title_footer')</h3><br>
