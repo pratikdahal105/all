@@ -3,6 +3,7 @@
 return [
 //    NVAIGATION
     'nav_home' => 'HOME',
+    'nav_fee' => 'About Our Fee',
     'nav_about' => 'OUR ROLE',
     'nav_contact' => 'CONTACT US',
     'nav_faq' => 'FAQ',

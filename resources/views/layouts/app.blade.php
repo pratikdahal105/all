@@ -61,8 +61,9 @@
     <a href="{{ route ('home') }}"><img src="{{ asset('images/logo.svg') }}" class="ml-5" style="margin-top: -60px;" height="300" width="300"></a>
     <span class="text-center m-4 font-weight-bold d-none d-lg-block d-xl-block" style="float: right">
         @lang('content.nav_contact_details')
+        <a target="_blank" href="{{asset('uploads/fee.pdf')}}">@lang('content.nav_fee')</a>
     </span>
-    <nav class="navbar sticky-top navbar-expand-lg static-top p-4" style="background-color: #04023d; margin-top: -60px;">
+    <nav class="navbar sticky-top navbar-expand-lg static-top p-4" style="background-color: #04023d; margin-top: -30px;">
         <div class="container">
             <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"><i id="bars_menu" class="text-light fas fa-bars"></i></span>

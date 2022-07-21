@@ -2,6 +2,7 @@
 
 return [
     'nav_home' => 'ホーム',
+    'nav_fee' => '手数料について',
     'nav_about' => '当社の役割',
     'nav_contact' => 'お問い合わせ',
     'nav_faq' => 'よくある質問',
@@ -56,7 +57,7 @@ return [
 ※企業様へ<br>
 ・外国人採用に当たっての悩み事などあれば、是非ご連絡下さい。<br>
 きっとお力添えになれるかと思います。<br>
-又、人材紹介会社、共同組合、監理団体等へのビジネスモデルもご用意致しておりますので是非よろしくお願い致します。<br>
+又、人材紹介会社、協同組合、監理団体等へのビジネスモデルもご用意致しておりますので是非よろしくお願い致します。<br>
 
 ※求職を希望されている方へ<br>
 ・当社ではどんなご相談でも受け付けております。<br>
@@ -321,7 +322,7 @@ return [
 //    company Profile
 
     'company_topic' => '会社概要',
-    'company_japan' => '日本支社',
+    'company_japan' => '日本',
     'company_japan_content' => '<table class="table table-bordered">
   <tr>
     <th>商号</th>
@@ -346,7 +347,7 @@ E-mail:  info@allhrm.com
     <td>営業時間	9：00～12：00 / 13：00～17：30  (土日祝日・年末年始は休業日)</td>
   </tr>
 </table><br>',
-    'company_main' => '本社',
+    'company_main' => '国外',
     'company_main_content' => '<table class="table table-bordered">
   <tr>
     <th>会社名</th>
