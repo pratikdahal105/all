@@ -252,7 +252,7 @@ In addition, there are restrictions on family accompaniment and length of stay. 
 //    Company Profile
 
     'company_topic' => 'COMPANY PROFILE',
-    'company_japan' => 'JAPAN BRANCH',
+    'company_japan' => 'JAPAN OFFICE',
     'company_japan_content' => '<table class="table table-bordered">
   <tr>
     <th>Company Name</th>
@@ -277,7 +277,7 @@ E-mail:  info@allhrm.com
     <td>9 : 00 ～12 : 00 / 13 : 00 ～17 : 30  ( Saturdays, Sundays, and holidays, New Year holidays )　</td>
   </tr>
 </table><br>',
-    'company_main' => 'HEAD OFFICE',
+    'company_main' => 'NEPAL OFFICE',
     'company_main_content' => '<table class="table table-bordered">
   <tr>
     <th>Company Name</th>
