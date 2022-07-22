@@ -347,7 +347,7 @@ E-mail:  info@allhrm.com
     <td>営業時間	9：00～12：00 / 13：00～17：30  (土日祝日・年末年始は休業日)</td>
   </tr>
 </table><br>',
-    'company_main' => '国外　= 日本国外',
+    'company_main' => '日本国外',
     'company_main_content' => '<table class="table table-bordered">
   <tr>
     <th>会社名</th>
