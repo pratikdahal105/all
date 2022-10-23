@@ -183,8 +183,8 @@
                             <figcaption class="figure-caption text-center"><a href="#"><i class="fab fa-line text-light m-2 fa-3x"></i></a></figcaption>
                           </figure>
                             <figure class="figure col-4">
-                                <img src="{{ asset('images/pdf.png') }}" width="100" height="100" class="figure-img img-fluid rounded">
-                                <figcaption class="figure-caption text-center"><a href="{{asset('uploads/profiles-contents.pdf')}}">弊社資料</a></figcaption>
+                                <a href="{{asset('uploads/profiles-contents.pdf')}}"><img src="{{ asset('images/pdf.png') }}" width="100" height="100" class="figure-img img-fluid rounded"></a>
+                                <figcaption class="figure-caption text-center"><a href="{{asset('uploads/profiles-contents.pdf')}}" style="text-decoration: none; color: white;">弊社資料</a></figcaption>
                             </figure>
                           <figure class="figure col-4">
                             <img src="{{ asset('images/viber.jpg') }}" width="100" height="100" class="figure-img img-fluid rounded">
