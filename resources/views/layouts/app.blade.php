@@ -183,7 +183,7 @@
                             <figcaption class="figure-caption text-center"><a href="#"><i class="fab fa-line text-light m-2 fa-3x"></i></a></figcaption>
                           </figure>
                             <figure class="figure col-4">
-                                <img src="{{ asset('images/pdf.jpg') }}" width="100" height="100" class="figure-img img-fluid rounded">
+                                <img src="{{ asset('images/pdf.png') }}" width="100" height="100" class="figure-img img-fluid rounded">
                                 <figcaption class="figure-caption text-center"><a href="{{asset('uploads/profiles-contents.pdf')}}">弊社資料</a></figcaption>
                             </figure>
                           <figure class="figure col-4">
